@@ -1,0 +1,78 @@
+body{
+	margin: 0; 
+	padding: 0;
+
+
+}
+
+h1{
+	text-align: center;
+}
+.liste{
+	margin-left: 15%;
+}
+
+table{
+    border-collapse: collapse;
+	width: 70%;
+	height: 70%;
+	border: 1px solid black;
+	margin: 30px auto;
+	
+}
+th{
+	background-color:burlywood;
+	color: azure;
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 10px;
+}
+td{
+	border-collapse: collapse;
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;								
+}
+div{
+	border-collapse: collapse;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+   
+  
+
+.conteneur{
+	display: flex;
+	justify-content:center ;
+	justify-content: space-around;
+}
+
+
+
+.div1{
+
+	width: 20%;
+	height: 20%;
+}
+
+
+.div2{
+	
+width: 20%;
+height: 20%;
+
+}
+.button{
+display: flex;
+margin: auto;
+background-color: teal;
+}
+
+.h3{
+	text-align: center;
+}
+.valider{
+	margin: 15px;
+	margin-left: 70%;
+	background-color: teal;
+}
